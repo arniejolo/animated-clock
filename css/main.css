@@ -15,7 +15,6 @@ html {
   position: relative;
   width: 300px;
   background: transparent url("../images/clock-face.svg") no-repeat center center;
-
 }
 
 .clock-center {
@@ -39,6 +38,7 @@ html {
 }
 
 @keyframes hand-rotate {
+
   0% {
     transform: rotate(0deg);
   }
